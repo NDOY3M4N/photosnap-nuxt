@@ -1,0 +1,27 @@
+{
+  "heroCardOne": {
+    "mobile": "/home/mobile/create-and-share.jpg",
+    "tablet": "/home/tablet/create-and-share.jpg",
+    "desktop": "/home/desktop/create-and-share.jpg"
+  },
+  "heroCardTwo": {
+    "mobile": "/home/mobile/beautiful-stories.jpg",
+    "tablet": "/home/tablet/beautiful-stories.jpg",
+    "desktop": "/home/desktop/beautiful-stories.jpg"
+  },
+  "heroCardThree": {
+    "mobile": "/home/mobile/designed-for-everyone.jpg",
+    "tablet": "/home/tablet/designed-for-everyone.jpg",
+    "desktop": "/home/desktop/designed-for-everyone.jpg"
+  },
+  "heroCardFeature": {
+    "mobile": "/features/mobile/hero.jpg",
+    "tablet": "/features/tablet/hero.jpg",
+    "desktop": "/features/desktop/hero.jpg"
+  },
+  "heroCardPricing": {
+    "mobile": "/pricing/mobile/hero.jpg",
+    "tablet": "/pricing/tablet/hero.jpg",
+    "desktop": "/pricing/desktop/hero.jpg"
+  }
+}
